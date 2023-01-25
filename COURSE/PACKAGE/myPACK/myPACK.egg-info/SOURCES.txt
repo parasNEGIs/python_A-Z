@@ -1,0 +1,7 @@
+License.txt
+setup.py
+myPACK/__init__.py
+myPACK.egg-info/PKG-INFO
+myPACK.egg-info/SOURCES.txt
+myPACK.egg-info/dependency_links.txt
+myPACK.egg-info/top_level.txt
