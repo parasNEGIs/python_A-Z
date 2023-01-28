@@ -28,8 +28,8 @@ s = " I am COOL "
 # BOOLEAN
 print(s.isalnum()) # coz of spaces
 print(s.isalpha()) # coz of spaces
-print(s.isupper())
-print(s.islower())
+print(s.isupper()) #checking if the string is in uppercase or not 
+print(s.islower()) #checking if the string is in lowercase or not 
 print(s.endswith("L "))
 
 # INT
